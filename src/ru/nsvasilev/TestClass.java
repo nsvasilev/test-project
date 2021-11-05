@@ -12,5 +12,6 @@ public class TestClass {
         WomanWithNiceBoobs prilepskaya = new WomanWithNiceBoobs(f, a, s, countOfTheGuysBeforeYour, false);
         System.out.println(prilepskaya.getAge());
         System.out.println(prilepskaya.getSizeOfTheBoobs());
+        System.out.print("Привет");
     }
 }
