@@ -13,6 +13,5 @@ public class TestClass {
         System.out.println(prilepskaya.getAge());
         System.out.println(prilepskaya.getSizeOfTheBoobs());
         System.out.println(prilepskaya);
-        System.out.print("Привет");
     }
 }
